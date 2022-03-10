@@ -1,0 +1,12 @@
+{
+    "id": "noplayer_stop_server",
+    "version": "1.0.0",
+    "name": "MCDR-noplayer_stop_server",
+    "description": "检测没有玩家在线进行关服并将主机关机。",
+    "author": "tangsu99",
+    "link": "https://github.com/tangsu99/MCDR-noplayer_stop_server",
+    "dependencies": {
+       "mcdreforged": ">=2.0.0-alpha.1",
+       "minecraft_data_api": "*"
+    }
+}
